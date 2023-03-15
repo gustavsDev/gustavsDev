@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavsDev
 - 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning back-end web design.
-- 💞️ I’m looking to collaborate on Web projects
+- 🌱 I’m currently learning Rust & Bevy.
+- 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me gustavs.slaviets@gmail.com
 
 <!---
