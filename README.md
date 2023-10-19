@@ -1,4 +1,4 @@
 - Hi, I’m @gustavsDev
-- I’m interested in game and web development.
-- I’m currently learning Node.js, C/C++, and Rust.
-- How to reach me gustavs.slaviets@gmail.com
+- I'm interested in OpenGL/SDL2 game development and Full-Stack web development.
+- Currently learning Node.js, C/C++, and Rust.
+- Contact email: gustavs.slaviets@gmail.com
