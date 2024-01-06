@@ -1,4 +1,5 @@
-- Hi, I’m @gustavsDev
-- I'm interested in OpenGL/SDL2 game development and Full-Stack web development.
-- Currently learning Node.js, C/C++, and Rust.
-- Contact email: gustavs.slaviets@gmail.com
+### Notice
+
+Hello, I have migrated all of my projects to GitLab. All current repos will stay.
+
+My new [GitLab account](https://gitlab.com/gustavs.slaviets).
