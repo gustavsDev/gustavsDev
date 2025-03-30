@@ -1,3 +1,1 @@
-### Notice
-
-Find out more @ [my main GitLab profile](https://gitlab.com/gustavs.slaviets).
+# [Check out my main profile!](https://gitlab.com/gustavs.slaviets).
