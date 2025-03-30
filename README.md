@@ -1,1 +1,1 @@
-# [Check out my main profile!](https://gitlab.com/gustavs.slaviets).
+# [Check out my main profile!](https://gitlab.com/gustavs.slaviets)
